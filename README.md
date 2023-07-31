@@ -12,6 +12,7 @@
 
 - I am seeking a full-time opportunity that will not only allow me to grow in a professional capacity and increase my knowledge base, but more importantly also allow me to contribute to an area that is constantly evolving, deeply interesting, and extremely cutting-edge. You can contact me with the links provided below.
 
+#### Current Learning
 
 1. I am currently working on Sentiment Analysis for Event-Driven Stock Prediction. This project leverages deep learning techniques such as Convolutional Neural Networks (CNNs) to predict accurate stock price movements based on news headlines, showcasing proficiency in NLP. It involved data engineering skills by using innovative web scraping and data preprocessing techniques to gather, preprocess, and analyze vast amounts of news data, preparing it for use in highly accurate CNN models. To know more about CNNs please go [here](https://en.wikipedia.org/wiki/Convolutional_neural_network) 
 
